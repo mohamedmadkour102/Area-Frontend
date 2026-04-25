@@ -97,3 +97,4 @@ export const footerLinks = [
   { label: 'Specifications', href: '#specs' },
   { label: 'How-to', href: '#how-to' },
 ]
+ 
